@@ -1,0 +1,25 @@
+ 				 _       _
+    __   __   __| | ___ | |
+  / __// _ \ / _` |/ _ \|_|
+ / (__| (_) | (_) |   _/ _
+ \_ _/ \___/ \__´_|\___||_|
+
+!Plataforma social!
+GitHub tiene una misión muy clara, <Build Software, better, together.>
+
+
+<Cofiguración de Git>
+{
+	#Prueba si tienes instalado
+	git --versión
+
+	#Configura tu usuario
+	git config --global user.name "Tu nombre"
+
+	#Configura tu mail
+	git config --global user.mail "tu@mail.com"
+}
+
+
+$git clone [https or SSH]
+$git log [comprobamos que los commits están ahí]
